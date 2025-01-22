@@ -1,6 +1,6 @@
-from queue_1 import CommunicationQueue # type: ignore
-from applicant import Applicant
-from company import Company
+from Comminication_queue import CommunicationQueue # type: ignore
+from applicant_submitted_event import Applicant
+from applicant_rejected_event import Company
 
 def main():
     queue = CommunicationQueue()
