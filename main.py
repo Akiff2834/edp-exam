@@ -1,4 +1,4 @@
-from communication_queue import CommunicationQueue # type: ignore
+from queue_1 import CommunicationQueue # type: ignore
 from applicant import Applicant
 from company import Company
 
