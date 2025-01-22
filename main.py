@@ -1,4 +1,4 @@
-from queue import CommunicationQueue
+from comminication_queue import CommunicationQueue
 from applicant import Applicant
 from company import Company
 def main():
